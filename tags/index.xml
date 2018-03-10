@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Liu Lian&#39;s page</title>
+    <link>http://ratafio.github.io/tags/</link>
+    <description>Recent content in Tags on Liu Lian&#39;s page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Liu Lian</copyright>
+    <lastBuildDate>Thu, 31 Aug 2017 15:43:48 +0800</lastBuildDate>
+    
+	<atom:link href="http://ratafio.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>English</title>
+      <link>http://ratafio.github.io/tags/english/</link>
+      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      
+      <guid>http://ratafio.github.io/tags/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preview</title>
+      <link>http://ratafio.github.io/tags/preview/</link>
+      <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
+      
+      <guid>http://ratafio.github.io/tags/preview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>http://ratafio.github.io/tags/shortcodes/</link>
+      <pubDate>Tue, 30 Aug 2016 16:01:23 +0800</pubDate>
+      
+      <guid>http://ratafio.github.io/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntax Highlighting</title>
+      <link>http://ratafio.github.io/tags/syntax-highlighting/</link>
+      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
+      
+      <guid>http://ratafio.github.io/tags/syntax-highlighting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag 2</title>
+      <link>http://ratafio.github.io/tags/tag-2/</link>
+      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      
+      <guid>http://ratafio.github.io/tags/tag-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag 3</title>
+      <link>http://ratafio.github.io/tags/tag-3/</link>
+      <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
+      
+      <guid>http://ratafio.github.io/tags/tag-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag 5</title>
+      <link>http://ratafio.github.io/tags/tag-5/</link>
+      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
+      
+      <guid>http://ratafio.github.io/tags/tag-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://ratafio.github.io/tags/test/</link>
+      <pubDate>Sat, 10 Mar 2018 19:24:29 +0800</pubDate>
+      
+      <guid>http://ratafio.github.io/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theme Preview</title>
+      <link>http://ratafio.github.io/tags/theme-preview/</link>
+      <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
+      
+      <guid>http://ratafio.github.io/tags/theme-preview/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

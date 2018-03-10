@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://ratafio.github.io/sitemap.xml

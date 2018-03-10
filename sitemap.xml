@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml-stylesheet type="text/xsl" href="http://ratafio.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://ratafio.github.io/post/even-preview/</loc>
+    <lastmod>2017-08-23T18:03:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/post/my-first-post/</loc>
+    <lastmod>2018-03-10T19:24:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/post/english-preview/</loc>
+    <lastmod>2017-08-31T15:43:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/post/shortcodes/</loc>
+    <lastmod>2018-02-01T18:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/post/syntax-highlighting/</loc>
+    <lastmod>2017-08-30T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/categories/blog/</loc>
+    <lastmod>2018-03-10T19:24:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/categories/</loc>
+    <lastmod>2018-03-10T19:24:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/categories/category-2/</loc>
+    <lastmod>2017-08-23T18:03:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/categories/category-3/</loc>
+    <lastmod>2017-08-23T18:03:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/tags/english/</loc>
+    <lastmod>2017-08-31T15:43:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/categories/english/</loc>
+    <lastmod>2017-08-31T15:43:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/</loc>
+    <lastmod>2017-08-23T18:03:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/post/</loc>
+    <lastmod>2017-08-23T18:03:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/tags/preview/</loc>
+    <lastmod>2017-08-23T18:03:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/tags/shortcodes/</loc>
+    <lastmod>2018-02-01T18:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/categories/shortcodes/</loc>
+    <lastmod>2018-02-01T18:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/tags/syntax-highlighting/</loc>
+    <lastmod>2017-08-30T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/categories/syntax-highlighting/</loc>
+    <lastmod>2017-08-30T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/tags/tag-2/</loc>
+    <lastmod>2017-08-31T15:43:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/tags/tag-3/</loc>
+    <lastmod>2017-08-23T18:03:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/tags/tag-5/</loc>
+    <lastmod>2017-08-30T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/tags/</loc>
+    <lastmod>2017-08-31T15:43:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/tags/test/</loc>
+    <lastmod>2018-03-10T19:24:29+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/tags/theme-preview/</loc>
+    <lastmod>2017-08-23T18:03:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/categories/theme-preview/</loc>
+    <lastmod>2017-08-23T18:03:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
