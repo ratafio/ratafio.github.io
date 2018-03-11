@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Liu Lian</copyright>
-    <lastBuildDate>Sat, 10 Mar 2018 22:43:10 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 11 Mar 2018 13:05:21 +0800</lastBuildDate>
     
 	<atom:link href="http://ratafio.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Blog</title>
       <link>http://ratafio.github.io/tags/blog/</link>
-      <pubDate>Sat, 10 Mar 2018 22:43:10 +0800</pubDate>
+      <pubDate>Sun, 11 Mar 2018 13:05:21 +0800</pubDate>
       
       <guid>http://ratafio.github.io/tags/blog/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>English</title>
       <link>http://ratafio.github.io/tags/english/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      <pubDate>Sun, 11 Mar 2018 13:05:21 +0800</pubDate>
       
       <guid>http://ratafio.github.io/tags/english/</guid>
       <description></description>
@@ -99,6 +99,15 @@
       <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
       
       <guid>http://ratafio.github.io/tags/theme-preview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Writing</title>
+      <link>http://ratafio.github.io/tags/writing/</link>
+      <pubDate>Sun, 11 Mar 2018 13:05:21 +0800</pubDate>
+      
+      <guid>http://ratafio.github.io/tags/writing/</guid>
       <description></description>
     </item>
     

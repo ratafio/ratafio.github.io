@@ -53,7 +53,7 @@
   
   <url>
     <loc>http://ratafio.github.io/tags/blog/</loc>
-    <lastmod>2018-03-10T22:43:10+08:00</lastmod>
+    <lastmod>2018-03-11T13:05:21+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -88,7 +88,7 @@
   
   <url>
     <loc>http://ratafio.github.io/tags/english/</loc>
-    <lastmod>2017-08-31T15:43:48+08:00</lastmod>
+    <lastmod>2018-03-11T13:05:21+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -172,7 +172,7 @@
   
   <url>
     <loc>http://ratafio.github.io/tags/</loc>
-    <lastmod>2018-03-10T22:43:10+08:00</lastmod>
+    <lastmod>2018-03-11T13:05:21+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -194,6 +194,13 @@
   <url>
     <loc>http://ratafio.github.io/categories/theme-preview/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/tags/writing/</loc>
+    <lastmod>2018-03-11T13:05:21+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
