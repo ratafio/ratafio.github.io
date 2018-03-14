@@ -10,6 +10,13 @@
   </url>
   
   <url>
+    <loc>http://ratafio.github.io/post/perceptron-learning-algorithm/</loc>
+    <lastmod>2018-03-14T12:50:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://ratafio.github.io/post/sunshine/</loc>
     <lastmod>2018-03-14T10:19:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -74,21 +81,21 @@
   
   <url>
     <loc>http://ratafio.github.io/tags/blog/</loc>
-    <lastmod>2018-03-13T22:38:56+08:00</lastmod>
+    <lastmod>2018-03-14T12:50:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ratafio.github.io/categories/blog/</loc>
-    <lastmod>2018-03-13T22:38:56+08:00</lastmod>
+    <lastmod>2018-03-14T12:50:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ratafio.github.io/categories/</loc>
-    <lastmod>2018-03-13T22:38:56+08:00</lastmod>
+    <lastmod>2018-03-14T12:50:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -109,7 +116,7 @@
   
   <url>
     <loc>http://ratafio.github.io/tags/english/</loc>
-    <lastmod>2018-03-13T22:38:56+08:00</lastmod>
+    <lastmod>2018-03-14T10:19:00+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -124,6 +131,20 @@
   <url>
     <loc>http://ratafio.github.io/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/tags/machine-learning/</loc>
+    <lastmod>2018-03-14T12:50:52+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/tags/pla/</loc>
+    <lastmod>2018-03-14T12:50:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -193,7 +214,7 @@
   
   <url>
     <loc>http://ratafio.github.io/tags/</loc>
-    <lastmod>2018-03-13T22:38:56+08:00</lastmod>
+    <lastmod>2018-03-14T12:50:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
