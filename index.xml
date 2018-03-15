@@ -7,33 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Liu Lian</copyright>
-    <lastBuildDate>Wed, 23 Aug 2017 18:03:09 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 15 Mar 2018 21:06:52 +0800</lastBuildDate>
     
 	<atom:link href="http://ratafio.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Theme preview</title>
-      <link>http://ratafio.github.io/post/even-preview/</link>
-      <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
-      
-      <guid>http://ratafio.github.io/post/even-preview/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Copy from &lt;a href=&#34;https://laozhu.me/post/hugo-nuo-post-preview/&#34;&gt;《Hugo 主题 Nuo 文章样式预览》&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;这篇文章集中说明主题所支持的 Markdown 语法和 Hugo Shortcodes 插件，你也可以在这里预览到他们的样子。如果你不喜欢某些样式，可以去修改 css/ 文件夹下的 .scss 文件。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>http://ratafio.github.io/about/</link>
-      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      <pubDate>Thu, 15 Mar 2018 21:06:52 +0800</pubDate>
       
       <guid>http://ratafio.github.io/about/</guid>
-      <description>这是我搞着玩的，每天写点东西惹ε=ε=ε=(~￣▽￣)~</description>
+      <description>这是我搞着玩的，每天写点东西惹ε=ε=ε=(~￣▽￣)~ Hey there! I&amp;rsquo;m Liu Lian.</description>
     </item>
     
     <item>
@@ -141,6 +126,21 @@
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Theme preview</title>
+      <link>http://ratafio.github.io/post/even-preview/</link>
+      <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
+      
+      <guid>http://ratafio.github.io/post/even-preview/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Copy from &lt;a href=&#34;https://laozhu.me/post/hugo-nuo-post-preview/&#34;&gt;《Hugo 主题 Nuo 文章样式预览》&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;这篇文章集中说明主题所支持的 Markdown 语法和 Hugo Shortcodes 插件，你也可以在这里预览到他们的样子。如果你不喜欢某些样式，可以去修改 css/ 文件夹下的 .scss 文件。&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>

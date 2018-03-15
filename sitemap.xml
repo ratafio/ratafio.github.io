@@ -3,15 +3,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://ratafio.github.io/post/even-preview/</loc>
-    <lastmod>2017-08-23T18:03:09+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://ratafio.github.io/about/</loc>
-    <lastmod>2017-08-28T21:41:52+08:00</lastmod>
+    <lastmod>2018-03-15T21:06:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -75,6 +68,13 @@
   <url>
     <loc>http://ratafio.github.io/post/english-preview/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/post/even-preview/</loc>
+    <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -144,7 +144,7 @@
   
   <url>
     <loc>http://ratafio.github.io/</loc>
-    <lastmod>2017-08-23T18:03:09+08:00</lastmod>
+    <lastmod>2018-03-15T21:06:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -165,14 +165,14 @@
   
   <url>
     <loc>http://ratafio.github.io/post/</loc>
-    <lastmod>2017-08-23T18:03:09+08:00</lastmod>
+    <lastmod>2018-03-15T09:46:53+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ratafio.github.io/tags/preview/</loc>
-    <lastmod>2017-08-23T18:03:09+08:00</lastmod>
+    <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
