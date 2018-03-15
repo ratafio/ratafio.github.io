@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>机器学习算法之PLA - Liu Lian&#39;s page</title>
+  <title>Let&#39;s Talk About Creative - Liu Lian&#39;s page</title>
   <meta name="renderer" content="webkit" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 
@@ -16,8 +16,8 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="#f8f5ec">
 
 
-<meta name="author" content="Liu Lian" /><meta name="description" content="第一篇技术博客" />
-<meta name="keywords" content="PLA" />
+<meta name="author" content="Liu Lian" /><meta name="description" content="古今对比" />
+<meta name="keywords" content="technology, creative" />
 
 
 
@@ -28,7 +28,7 @@
 <meta name="generator" content="Hugo 0.37.1" />
 
 
-<link rel="canonical" href="http://ratafio.github.io/post/perceptron-learning-algorithm/" />
+<link rel="canonical" href="http://ratafio.github.io/post/lets-talk-about-creative/" />
 
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -48,20 +48,16 @@
 
 
 
-<meta property="og:title" content="机器学习算法之PLA" />
-<meta property="og:description" content="第一篇技术博客" />
+<meta property="og:title" content="Let&#39;s Talk About Creative" />
+<meta property="og:description" content="古今对比" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://ratafio.github.io/post/perceptron-learning-algorithm/" />
+<meta property="og:url" content="http://ratafio.github.io/post/lets-talk-about-creative/" />
 
 
 
-<meta property="article:published_time" content="2018-03-14T12:50:52&#43;08:00"/>
+<meta property="article:published_time" content="2018-03-15T09:46:53&#43;08:00"/>
 
-<meta property="article:modified_time" content="2018-03-14T12:50:52&#43;08:00"/>
-
-
-
-
+<meta property="article:modified_time" content="2018-03-15T09:46:53&#43;08:00"/>
 
 
 
@@ -69,20 +65,24 @@
 
 
 
-<meta itemprop="name" content="机器学习算法之PLA">
-<meta itemprop="description" content="第一篇技术博客">
-
-
-<meta itemprop="datePublished" content="2018-03-14T12:50:52&#43;08:00" />
-<meta itemprop="dateModified" content="2018-03-14T12:50:52&#43;08:00" />
-<meta itemprop="wordCount" content="424">
 
 
 
-<meta itemprop="keywords" content="PLA,Blog,Machine Learning," />
+
+<meta itemprop="name" content="Let&#39;s Talk About Creative">
+<meta itemprop="description" content="古今对比">
+
+
+<meta itemprop="datePublished" content="2018-03-15T09:46:53&#43;08:00" />
+<meta itemprop="dateModified" content="2018-03-15T09:46:53&#43;08:00" />
+<meta itemprop="wordCount" content="525">
+
+
+
+<meta itemprop="keywords" content="English,Blog," />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="机器学习算法之PLA"/>
-<meta name="twitter:description" content="第一篇技术博客"/>
+<meta name="twitter:title" content="Let&#39;s Talk About Creative"/>
+<meta name="twitter:description" content="古今对比"/>
 
 <!--[if lte IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
@@ -145,17 +145,17 @@
           <article class="post">
     
     <header class="post-header">
-      <h1 class="post-title">机器学习算法之PLA</h1>
+      <h1 class="post-title">Let&#39;s Talk About Creative</h1>
 
       <div class="post-meta">
-        <span class="post-time"> 2018-03-14 </span>
+        <span class="post-time"> 2018-03-15 </span>
         <div class="post-category">
             
               <a href="/categories/blog/"> Blog </a>
             
           </div>
-        <span class="more-meta"> 约 424 字 </span>
-        <span class="more-meta"> 预计阅读 1 分钟 </span>
+        <span class="more-meta"> 约 525 字 </span>
+        <span class="more-meta"> 预计阅读 2 分钟 </span>
         <span id="busuanzi_container_page_pv" class="more-meta"> <span id="busuanzi_value_page_pv"><img src="/img/spinner.svg" alt="spinner.svg"/></span> 次阅读 </span>
       </div>
     </header>
@@ -165,43 +165,57 @@
 
     
     <div class="post-content">
-      <p>PLA不是People&rsquo;s Liberation Army人民解放军~是Perceptron Learning Algorithm感知器算法！</p>
+      <blockquote>
+<p>Oh it such a perfect day, I&rsquo;m glad I spent it with you.</p>
+
+<p>&ndash; Lou Reed</p>
+</blockquote>
 
 <p></p>
 
-<p>感知器（英语：Perceptron）是Frank Rosenblatt在1957年就职于Cornell航空实验室（Cornell Aeronautical Laboratory）时所发明的一种人工神经网络。它可以被视为一种最简单形式的前馈神经网络，是一种 <strong>二元线性分类器</strong> 。 也就是说，它不能处理非线性问题。而且输出的结果只有‘是’或者‘不是’。</p>
 
-<p>此处有公式</p>
+<figure class="center">
+    
+        <img src="https://timgsa.baidu.com/timg?image&amp;quality=80&amp;size=b9999_10000&amp;sec=1521116046803&amp;di=814588fd2b1522c8ccfa722fb6c02eb3&amp;imgtype=0&amp;src=http%3A%2F%2Fimg.zcool.cn%2Fcommunity%2F015ddf58175582a84a0d304f56ef56.jpg%40900w_1l_2o_100sh.jpg" alt="窃格瓦拉" />
+    
+    
+    <figcaption>
+        <h4>这辈子是不可能打工滴</h4>
+        
+    </figcaption>
+    
+</figure>
 
-<p>单个神经细胞可被视为一种只有两种状态的机器——激活时为‘是’，而未激活时为‘否’。当信号量总和超过了某个阈值时，细胞体就会激动，产生电脉冲。电脉冲沿着轴突并通过突触传递到其它神经元。为了模拟神经细胞行为，与之对应的感知机基础概念被提出，如权量（突触）、偏置（阈值）及激活函数（细胞体）。</p>
 
-<p>开坑</p>
+<blockquote>
+<p>Technology has made children less creative than they were in the past.</p>
+</blockquote>
 
-<h2 id="1-感知器算法">1. 感知器算法</h2>
+<p>Childhood is the time when a person has the wildest imagination and coolest creativity. These kinds of abilities come from their recognition of the world. Children may get inspiration from a story they heard, a lovely animal they played with, or the beautify scenery of nature. In contemporary times, being exposed to a world filled with various types of technologies, children today take in more experiences and information than they were in the past. The more the input, the more the output. Thus, there is no way to say that the children today have less creativity than they were in the past.</p>
 
-<h3 id="1-算法原理">1. 算法原理</h3>
+<p>To begin with, let&rsquo;s take a look at the world we live in, we benefit from the technology in all walks of life: we keep up with the latest news by watching TV, we travel to places thousand miles away by high-speed train or airplane, we share our happy memories with our friends via the social network apps, and we explore the outer space through satellites&hellip; As to children, they are more impressionable than adults, these fancy technologies act as great influences on their minds. Inspired by modern technologies, they are more horizon-widened. Consequently, they can produce more original thoughts and ideas, some of which may amaze you. I have seen a piece of news in which a junior high school boy invented a powered exoskeleton for the disabled people, were it not for the inspiration from the robot exhibition in the science museum, he said, he would not have come up with such an amazing idea. Thus, technology is shaping the way children think and tackle problems, and as a result, increasing their creativity.</p>
 
-<h3 id="2-表示方式">2. 表示方式</h3>
+<p>Some people may argue that technology is bringing bad effects to young children, as many children are using technology in a wrong way&ndash;by simply copy and paste, an essay is done, in this way, they are less creative. Nevertheless, as I see it, they are not losing their creativity. Actually, creativity is an inner trait of each individual, it can be inspired, but cannot be decreased. When they are using technology to copy or counterfeit, they are just being lazy. Technology is not the &lsquo;criminal&rsquo;, on the contrary, school and teachers are the ones to blame,
+for their being not able to guide children in the right direction. What&rsquo;s even worse, some schools are pushing students to act the same way. I believe that only when children can express their ideas freely and being guided to the right path can they achieve their creativity to the best, and technology will act as a strong pushing force helping them to think and imagine.</p>
 
-<h3 id="3-伪代码">3. 伪代码</h3>
-
-<h2 id="2-算法性能">2. 算法性能</h2>
-
-<h3 id="1-上界与下界">1. 上界与下界</h3>
-
-<h3 id="2-优点缺点">2. 优点缺点</h3>
-
-<h2 id="3-实践应用">3. 实践应用</h2>
-
-<h3 id="1-数据集">1. 数据集</h3>
-
-<h3 id="2-实验结果">2. 实验结果</h3>
-
-<h2 id="4-总结">4. 总结</h2>
+<p>Technology, if used properly, can help children today becoming more creative than ever. When we are enjoying the advantages it brings, just always be aware of the damages it may cause the children, and take precautions in time.</p>
 
 <hr />
 
-<p>等我慢慢更……😏</p>
+<p>乱写!😱</p>
+
+<p>能播放吗……</p>
+
+<p>  <iframe style="max-width: 100%"
+      class="music163"
+      frameborder="no"
+      border="0"
+      marginwidth="0"
+      marginheight="0"
+      width="330"
+      height="86"
+      src="//music.163.com/outchain/player?type=2&id=4236310&auto=0&height=66">
+    </iframe></p>
     </div>
 
     
@@ -213,25 +227,23 @@
     <footer class="post-footer">
       <div class="post-tags">
           
-          <a href="/tags/pla/">PLA</a>
+          <a href="/tags/english/">English</a>
           
           <a href="/tags/blog/">Blog</a>
-          
-          <a href="/tags/machine-learning/">Machine Learning</a>
           
         </div>
 
       
       <nav class="post-nav">
         
-          <a class="prev" href="/post/lets-talk-about-creative/">
+          <a class="prev" href="/post/even-preview/">
             <i class="iconfont icon-left"></i>
-            <span class="prev-text nav-default">Let&#39;s Talk About Creative</span>
+            <span class="prev-text nav-default">Theme preview</span>
             <span class="prev-text nav-mobile">上一篇</span>
           </a>
         
-          <a class="next" href="/post/sunshine/">
-            <span class="next-text nav-default">Sunshine</span>
+          <a class="next" href="/post/perceptron-learning-algorithm/">
+            <span class="next-text nav-default">机器学习算法之PLA</span>
             <span class="prev-text nav-mobile">下一篇</span>
             <i class="iconfont icon-right"></i>
           </a>
