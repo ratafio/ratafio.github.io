@@ -10,6 +10,13 @@
   </url>
   
   <url>
+    <loc>http://ratafio.github.io/post/bye-zheng-yue/</loc>
+    <lastmod>2018-03-17T23:23:03+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://ratafio.github.io/post/ai-generated-art/</loc>
     <lastmod>2018-03-15T09:46:53+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -108,22 +115,22 @@
   </url>
   
   <url>
-    <loc>http://ratafio.github.io/categories/blog/</loc>
-    <lastmod>2018-03-15T09:46:53+08:00</lastmod>
+    <loc>http://ratafio.github.io/tags/blog/</loc>
+    <lastmod>2018-03-17T23:23:03+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ratafio.github.io/tags/blog/</loc>
-    <lastmod>2018-03-15T09:46:53+08:00</lastmod>
+    <loc>http://ratafio.github.io/categories/blog/</loc>
+    <lastmod>2018-03-17T23:23:03+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ratafio.github.io/categories/</loc>
-    <lastmod>2018-03-15T09:46:53+08:00</lastmod>
+    <lastmod>2018-03-17T23:23:03+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -143,15 +150,15 @@
   </url>
   
   <url>
-    <loc>http://ratafio.github.io/categories/english/</loc>
-    <lastmod>2017-08-31T15:43:48+08:00</lastmod>
+    <loc>http://ratafio.github.io/tags/english/</loc>
+    <lastmod>2018-03-17T23:23:03+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ratafio.github.io/tags/english/</loc>
-    <lastmod>2018-03-15T09:46:53+08:00</lastmod>
+    <loc>http://ratafio.github.io/categories/english/</loc>
+    <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -179,7 +186,7 @@
   
   <url>
     <loc>http://ratafio.github.io/post/</loc>
-    <lastmod>2018-03-15T09:46:53+08:00</lastmod>
+    <lastmod>2018-03-17T23:23:03+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -192,13 +199,6 @@
   </url>
   
   <url>
-    <loc>http://ratafio.github.io/categories/shortcodes/</loc>
-    <lastmod>2018-02-01T18:01:23+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://ratafio.github.io/tags/shortcodes/</loc>
     <lastmod>2018-02-01T18:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -206,14 +206,21 @@
   </url>
   
   <url>
-    <loc>http://ratafio.github.io/categories/syntax-highlighting/</loc>
-    <lastmod>2017-08-30T16:01:23+08:00</lastmod>
+    <loc>http://ratafio.github.io/categories/shortcodes/</loc>
+    <lastmod>2018-02-01T18:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ratafio.github.io/tags/syntax-highlighting/</loc>
+    <lastmod>2017-08-30T16:01:23+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ratafio.github.io/categories/syntax-highlighting/</loc>
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
@@ -255,14 +262,14 @@
   </url>
   
   <url>
-    <loc>http://ratafio.github.io/categories/theme-preview/</loc>
+    <loc>http://ratafio.github.io/tags/theme-preview/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ratafio.github.io/tags/theme-preview/</loc>
+    <loc>http://ratafio.github.io/categories/theme-preview/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
@@ -276,14 +283,14 @@
   </url>
   
   <url>
-    <loc>http://ratafio.github.io/categories/%E8%BD%AC%E8%BD%BD/</loc>
+    <loc>http://ratafio.github.io/tags/%E8%BD%AC%E8%BD%BD/</loc>
     <lastmod>2018-03-15T09:46:53+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://ratafio.github.io/tags/%E8%BD%AC%E8%BD%BD/</loc>
+    <loc>http://ratafio.github.io/categories/%E8%BD%AC%E8%BD%BD/</loc>
     <lastmod>2018-03-15T09:46:53+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
