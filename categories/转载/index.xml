@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>转载 on Liu Lian&#39;s page</title>
+    <link>http://ratafio.github.io/categories/%E8%BD%AC%E8%BD%BD/</link>
+    <description>Recent content in 转载 on Liu Lian&#39;s page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Liu Lian</copyright>
+    <lastBuildDate>Thu, 15 Mar 2018 09:46:53 +0800</lastBuildDate>
+    
+	<atom:link href="http://ratafio.github.io/categories/%E8%BD%AC%E8%BD%BD/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AI-Generated Art Now Looks More Convincingly Human Than Work at Art Basel, Study Says</title>
+      <link>http://ratafio.github.io/post/ai-generated-art/</link>
+      <pubDate>Thu, 15 Mar 2018 09:46:53 +0800</pubDate>
+      
+      <guid>http://ratafio.github.io/post/ai-generated-art/</guid>
+      <description>Deep neural networks are learning to make art and the results are impressive.
+  Artworks created by Creative Adversarial Networks (CAN) artificial intelligence. Courtesy of the Art and Artificial Intelligence Laboratory, Rutgers University.   Imagine a computer capable of creating original art that looks as human-generated as the work appearing at major art fairs. That’s what a new study from a team at the Art and Artificial Intelligence Lab at Rutgers University is attempting to achieve.</description>
+    </item>
+    
+  </channel>
+</rss>
